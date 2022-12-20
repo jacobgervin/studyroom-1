@@ -27,6 +27,7 @@
     "@capacitor/keyboard": "4.1.0",
     "@capacitor/status-bar": "4.1.0",
     "@ionic/angular": "^6.1.9",
+    "index.js": "^0.0.3",
     "ionicons": "^6.0.3",
     "ng2-search-filter": "^0.5.1",
     "rxjs": "~7.5.0",

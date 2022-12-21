@@ -15,7 +15,7 @@ export class ApiserviceService {
   
 
   // connect frontend to backend
-  apiUrl = 'studyroom-1-drg7.vercel.app';
+  apiUrl = 'studyroom-1-drg7-kiz3nk953-jacobgervin.vercel.app';
 
   // get all data
   getAllData():Observable<any> {
